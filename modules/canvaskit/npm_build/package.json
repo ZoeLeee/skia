@@ -9,7 +9,8 @@
   },
   "permsRepo": "skia-dev/.github",
   "publishConfig": {
-    "registry": "https://wombat-dressing-room.appspot.com"
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   },
   "scripts": {
     "dtslint": "dtslint types"
